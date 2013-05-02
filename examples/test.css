@@ -1,0 +1,32 @@
+.nxt
+{
+	background: url(images/next.gif);
+	height: 16px;
+	width: 16px;
+}
+
+.prev
+{
+	background: url(images/prev.gif);
+	height: 16px;
+	width: 16px;
+}
+
+.prev.last
+{
+	background: url(images/last.gif);
+}
+
+.first
+{
+	background: url(images/first.gif);
+	height: 16px;
+	width: 16px;
+}
+
+.load
+{
+	background: url(images/load.gif);
+	height: 16px;
+	width: 16px;
+}

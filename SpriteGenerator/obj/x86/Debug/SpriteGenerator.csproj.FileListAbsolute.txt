@@ -1,0 +1,9 @@
+C:\Users\rhatomkey\Desktop\SpriteGenerator\SpriteGenerator\bin\Debug\SpriteGenerator.exe
+C:\Users\rhatomkey\Desktop\SpriteGenerator\SpriteGenerator\bin\Debug\SpriteGenerator.pdb
+C:\Users\rhatomkey\Desktop\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.csprojResolveAssemblyReference.cache
+C:\Users\rhatomkey\Desktop\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.SpritesForm.resources
+C:\Users\rhatomkey\Desktop\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.Properties.Resources.resources
+C:\Users\rhatomkey\Desktop\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.csproj.GenerateResource.Cache
+C:\Users\rhatomkey\Desktop\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.exe
+C:\Users\rhatomkey\Desktop\SpriteGenerator\SpriteGenerator\obj\x86\Debug\SpriteGenerator.pdb
+C:\Users\rhatomkey\Desktop\SpriteGenerator\SpriteGenerator\bin\Debug\SpriteGenerator.exe.config
